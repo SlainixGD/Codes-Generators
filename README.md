@@ -2,15 +2,15 @@
 
 This repository contains Python scripts for generating and validating codes for various platforms.
 
-## NitroCodeGenerator
+## Nitro Code Generator
 
 Generates unique Discord Nitro codes, checks their validity, and saves valid and invalid codes to separate text files. It uses multithreading for efficiency.
 
-## PlayStoreCodeGenerator
+## Play Store Code Generator
 
 Generates unique Google Play Store codes, checks their validity, and saves valid and invalid codes to separate text files. It uses multithreading for efficiency.
 
-## SteamKeyGenerator
+## Steam Key Generator
 
 Generates unique Steam keys, checks their validity, and saves valid and invalid keys to separate text files. It uses multithreading for efficiency.
 
